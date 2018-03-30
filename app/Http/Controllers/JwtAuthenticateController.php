@@ -2,7 +2,7 @@
 namespace App\Http\Controllers;
 use App\Permission;
 use App\Role;
-use App\user;
+use App\User;
 use Zizaco\Entrust\EntrustRole;
 use App\saccosGroup;
 

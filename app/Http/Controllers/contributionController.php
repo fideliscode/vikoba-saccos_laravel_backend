@@ -1,7 +1,7 @@
 <?php
 namespace App\Http\Controllers;
 use App\contribution;
-use App\user;
+use App\User;
 use App\CustomClasses\Report;
 use App\saccosGroup;
 use Illuminate\Http\Request;
